@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
 ---
 title: "Netdata"
@@ -461,3 +462,7 @@ So, we follow the tradition...
 ## Is it awesome?
 
 [These people](https://github.com/netdata/netdata/stargazers) seem to like it.
+=======
+# netdata
+Real-time performance monitoring, done right!
+>>>>>>> 9a4a5c593fab9700105b989adeab63a4eecc486e
